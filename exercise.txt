@@ -1,6 +1,6 @@
 **NASA's Mission to the Moon: Exploring Earth's Celestial Neighbor**
 
-In the annals of space exploration, few endeavors capture the human imagination quite like NASA's missions to the Moon. 
+In the annals of space exploration, few endeavours capture the human imagination quite like NASA's missions to the Moon. 
 From the historic Apollo missions of the 1960s and 1970s to the contemporary efforts of the Artemis program, 
 NASA's lunar missions have consistently pushed the boundaries of scientific discovery and technological innovation.
 
@@ -9,7 +9,7 @@ NASA's lunar missions have consistently pushed the boundaries of scientific disc
 The Apollo missions stand as a testament to human ingenuity and determination. Beginning with Apollo 11 in 1969, 
 which famously saw astronauts Neil Armstrong and Buzz Aldrin become the first humans to set foot on the lunar surface, 
 the Apollo program achieved a series of groundbreaking milestones. Over the course of six missions, 
-NASA astronauts conducted scientific experiments, collected lunar samples, and expanded our understanding of Earth's celestial neighbor.
+NASA astronauts conducted scientific experiments, collected lunar samples, and expanded our understanding of Earth's celestial neighbour.
 
 **Legacy of Apollo: Scientific and Cultural Impact**
 
